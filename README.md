@@ -23,8 +23,8 @@ These are the source codes of the game named **Spin Hit** on Google Play. This i
 
 
 ## Gameplay
-![](/VideosAndPhotos/Shop-Resized-2.png)
-![](/VideosAndPhotos/SpinHit-Gameplay-Resized.gif)
+![](/VideosAndPhotos/Shop.png)
+![](/VideosAndPhotos/SpinHit-Gameplay.gif)
 
 
 ## Game Link
