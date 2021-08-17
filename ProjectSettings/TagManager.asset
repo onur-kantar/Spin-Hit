@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - gulle_yikici
+  - taban
+  - dusman
+  - gulle
+  - gulle_uretim
+  - canvas
+  - oyun_kontrol
+  - rastgele_dusman_ust
+  - rastgele_dusman_alt
+  - dusman_oldurucu
+  - play
+  - shop
+  - chapter_kontrol
+  - dusman_tutucu
+  - dusman_kursun
+  - dusman_kursun_uret
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
