@@ -1,5 +1,5 @@
 # Spin-Hit
-These are the source codes of the game named **Spin Hit** on Google Play. This is my first game (Feb 2019).
+These are the source codes of the game named **Spin Hit** on Google Play. This is my first game **(Feb 2019)**.
 
 ## Mechanics
 * Turn around
