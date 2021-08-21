@@ -30,4 +30,4 @@ Kill the enemies that come upon you and try to complete the levels. Strengthen y
 
 
 ## Game Link
-[Google Play](https://play.google.com/store/apps/details?id=com.onurkantar.spinhit)
+* [Google Play](https://play.google.com/store/apps/details?id=com.onurkantar.spinhit)
