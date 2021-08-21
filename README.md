@@ -23,6 +23,8 @@ These are the source codes of the game named **Spin Hit** on Google Play. This i
 
 
 ## Gameplay
+Kill the enemies that come upon you and try to complete the levels. Strengthen yourself with the coins you get at the end of the level.
+
 ![](/VideosAndPhotos/Shop.png)
 ![](/VideosAndPhotos/SpinHit-Gameplay.gif)
 
