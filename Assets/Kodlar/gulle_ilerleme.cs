@@ -9,6 +9,6 @@ public class gulle_ilerleme : MonoBehaviour
     void Start()
     {
         fizik = GetComponent<Rigidbody2D>();
-        fizik.velocity = transform.right * hiz;
+        fizik.linearVelocity = transform.right * hiz;
     }
 }
