@@ -1,0 +1,6 @@
+<dependencies>
+  <androidPackages>
+    <!-- Google Play Billing 8.x'i getir -->
+    <androidPackage spec="com.android.billingclient:billing-ktx:8.+" />
+  </androidPackages>
+</dependencies>
